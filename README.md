@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 😎
+
+I make games, and currently working on one that has guns and nostalgia.
+
+If you're curious you can have a look at all of my **[projects](https://iggyzuk.com/projects/)**.
 
 <!--
 **IggyZuk/iggyzuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
