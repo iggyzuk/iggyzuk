@@ -1,8 +1,4 @@
-### Hello! 
-
-I'm currently working on a game in **Unity** that has **guns** and **monsters**. I'm also playing around with **server programming** in **Golang**.
-
-If you're curious you can have a look at all of my **[projects](https://iggyzuk.com/projects/)**.
+Hey there, if you're curious about my work have a look at my **[projects](https://iggyzuk.com/projects/)**.
 
 <!--
 **IggyZuk/iggyzuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
